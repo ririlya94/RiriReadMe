@@ -2,10 +2,6 @@
 
 - briefly describe what is the project about here
 
-## Packages
-
-- Assets, widgets and services of base for this project
-
 ## Target Platforms & OS
 
 - mobile: Android & Huawei
@@ -14,6 +10,13 @@
 ## Features
 
 - **Login:** Currently the app is available in Malaysia my , Indonesia id & Thailand th.
+
+
+## Library
+
+[![Lottie](https://img.shields.io/badge/lottie%3A6.1.0-a4c639?style=for-the-badge&logo=android&logoColor=white)](https://github.com/airbnb/lottie-android)
+[![Konfetti](https://img.shields.io/badge/konfetti_xml%3A2.0.3-a4c639?style=for-the-badge&logo=android&logoColor=white)](https://github.com/DanielMartinus/Konfetti)
+[![Konfetti](https://img.shields.io/badge/androidx.navigation_2.7.4-a4c639?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack/androidx/releases/navigation)
 
 ## Useful Tools `Android Studio`
 
